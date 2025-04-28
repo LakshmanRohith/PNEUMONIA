@@ -2,7 +2,7 @@
 
 
 🫁 Lung Segmentation Example
-![Accuracy Graph](IMAGES/PNEUMONIA)
+![SAMPLE IMAGE](IMAGES/PNEUMONIA.png)
 
 📄 Pneumonia Detection using Deep CNN Algorithms
 Authors:
