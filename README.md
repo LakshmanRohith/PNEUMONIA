@@ -58,6 +58,8 @@ Using Grad-CAM to highlight important lung regions
 Weighted focus on diseased areas
 
 📷 Grad-CAM Visualization:
+
+
 ![SAMPLE IMAGE](IMAGES/GRADCAM.png)
 🔹 Model Architecture
 ResNet152V2 (pretrained on ImageNet)
