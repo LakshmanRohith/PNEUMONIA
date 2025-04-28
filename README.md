@@ -2,7 +2,7 @@
 
 
 🫁 Lung Segmentation Example
-![SAMPLE IMAGE](IMAGES/PNEUMONIA.png)
+![SAMPLE IMAGE](IMAGES/PNEUMONIA_ORIGINAL.png)
 
 📄 Pneumonia Detection using Deep CNN Algorithms
 Authors:
