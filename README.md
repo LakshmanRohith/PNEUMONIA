@@ -51,14 +51,14 @@ Removal of background noise
 
 🫁 Lung Segmentation Example:
 
-
+![SAMPLE IMAGE](IMAGES/PREPROCESSING.png)
 🔹 Feature Extraction
 Using Grad-CAM to highlight important lung regions
 
 Weighted focus on diseased areas
 
 📷 Grad-CAM Visualization:
-
+![SAMPLE IMAGE](IMAGES/GRADCAM.png)
 🔹 Model Architecture
 ResNet152V2 (pretrained on ImageNet)
 
@@ -71,7 +71,7 @@ Adam optimizer, learning rate 0.0001
 20 epochs
 
 📷 Model Architecture Diagram:
-
+![SAMPLE IMAGE](IMAGES/ARCHITECTURE.png)
 🔹 Testing & Evaluation
 Confusion Matrix
 
@@ -89,7 +89,7 @@ ROC AUC Score	99.76%
 ✅ Model successfully distinguishes between Disease and Normal CT scans with high robustness.
 
 📷 Training/Validation Graphs:
-
+![SAMPLE IMAGE](IMAGES/OUTPUT_GRAPHS.png)
 📈 Model Visualization
 Grad-CAM used for heatmaps to visualize lung infection areas.
 Plotted Training/Validation Accuracy and Loss graphs for better model evaluation.
