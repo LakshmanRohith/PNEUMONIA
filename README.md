@@ -51,7 +51,7 @@ Removal of background noise
 
 🫁 Lung Segmentation Example:
 
-![Lung Segmentation](IMAGES/PREPROCESSING.png)
+![Lung Segmentation](IMAGES/PREPROCESSING.jpg)
 🔹 Feature Extraction
 Using Grad-CAM to highlight important lung regions
 
@@ -78,7 +78,7 @@ Adam optimizer, learning rate 0.0001
 
 
 📷 Model Architecture Diagram:
-![Model Architecture](IMAGES/ARCHITECTURE.png)
+![Model Architecture](IMAGES/ARCHITECTURE.jpg)
 🔹 Testing & Evaluation
 Confusion Matrix
 
